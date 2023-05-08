@@ -8,6 +8,7 @@ public class AtvSpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AtvSpringBootApplication.class, args);
+        System.out.println("Servidor rodando!");
     }
 
 }
